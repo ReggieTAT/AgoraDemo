@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgoraDemo</string>
+    <string name="agora_app_id">b52718751b8545378fcfa508a9ede237</string>
+    <string name="text">请等待对方加入聊天</string>
+    <string name="img_voice">img_voice</string>
+    <string name="img_mute">img_mute</string>
+    <string name="img_switch_camera">img_switch_camera</string>
+    <string name="img_end_call">img_end_call</string>
+    <string name="btn_start">start</string>
+</resources>
